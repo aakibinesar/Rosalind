@@ -1,4 +1,4 @@
-All the codes are written in Python to solve Bioninformatics problems as well as some basic well known Algorithms and Data Structures.
+All the codes are written in Python to solve Bioinformatics problems as well as some basic well known Algorithms and Data Structures.
 
 [Rosalind](http://rosalind.info/) is a platform for learning bioinformatics and programming through problem solving. 
 
