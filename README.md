@@ -2,7 +2,7 @@ All the codes are written in Python to solve Bioinformatics problems as well as 
 
 [Rosalind](http://rosalind.info/) is a platform for learning bioinformatics and programming through problem solving. 
 
-My profile is [here](http://rosalind.info/users/Aakib/).
+My profile can be viewed [here](http://rosalind.info/users/Aakib/).
 
 ## Rosalind Locations
 
