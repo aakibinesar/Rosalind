@@ -13,7 +13,7 @@ Bioinformatics Armory | 11 | 16
 Bioinformatics Stronghold | 84 | 105
 Bioinformatics Textbook Track | 67 | 124
 Python Village | 6 | 6
-***ALL*** | ***202*** | ***?***
+***ALL*** | ***202*** | ***285***
 
 > This is the task which our teacher-Liu assigned. 
 > My codes are only suggestions,but not the standard answers.
