@@ -1,10 +1,10 @@
-All the codes are only for study bioinformatics.
+All the codes are written in Python to solve Bioninformatics problems as well as some basic well known Algorithms and Data Structures.
 
 [Rosalind](http://rosalind.info/) is a platform for learning bioinformatics and programming through problem solving. 
 
-My profile is [here](http://rosalind.info/users/Zhixue/).
+My profile is [here](http://rosalind.info/users/Aakib/).
 
-## Fulfillment of schedule
+## Rosalind Locations
 
 Location | Solved | Total
 ---|---|---
@@ -14,6 +14,3 @@ Bioinformatics Stronghold | 84 | 105
 Bioinformatics Textbook Track | 67 | 124
 Python Village | 6 | 6
 ***ALL*** | ***202*** | ***285***
-
-> This is the task which our teacher-Liu assigned. 
-> My codes are only suggestions,but not the standard answers.
